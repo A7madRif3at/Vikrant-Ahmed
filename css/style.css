@@ -68,3 +68,8 @@
     box-shadow: 0 0 5px #007bff;
   }
   
+  @media(min-width: 520px) {
+    body {
+        display: block;
+    }
+}
